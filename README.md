@@ -6,6 +6,10 @@
 
 This is a simple React application that allows users to send emails via a form. Users can enter their email address, name, subject, and message body. The application also supports dark mode, enhancing user experience.
 
+Dark mode             |  Light Mode
+:-------------------------:|:-------------------------:
+![](asset/screen1.png)  |  ![](asset/screen2.png)
+
 ## Features
 
 - **Email Form**: Users can fill out a form to send emails.
