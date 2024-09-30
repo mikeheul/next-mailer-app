@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is a simple React application that allows users to send emails via a form. Users can enter their email address, name, subject, and message body. The application also supports dark mode, enhancing user experience.
+This is a simple Next.js application that allows users to send emails via a form. Users can enter their email address, name, subject, and message body. The application also supports dark mode, enhancing user experience.
 
 Dark mode             |  Light Mode
 :-------------------------:|:-------------------------:
@@ -19,7 +19,7 @@ Dark mode             |  Light Mode
 
 ## Technologies Used
 
-- **React**: JavaScript library for building user interfaces.
+- **Next.js**: React framework for server-side rendering and static site generation.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
 - **Lucide React**: Icons for UI elements.
 - **React Hot Toast**: For displaying toast notifications.
